@@ -11,7 +11,7 @@ from streamlit_mic_recorder import mic_recorder
 st.set_page_config(page_title="Detector de Palabras", page_icon="🎙️")
 
 st.title("Detector de Palabra Perro + Espectrograma")
-st.write(https://github.com/hectorcabrerajobs/appvoice.git
+st.write(
     "Haz clic en el botón para empezar a grabar, habla y luego detén la grabación."
 )
 

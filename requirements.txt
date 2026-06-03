@@ -1,7 +1,7 @@
-# --- Instala APP para streamlit y todos las ibrerias necesarias # --- 
-
-pip install matplotlib
-pip install numpy
-pip install pydub
-pip install scipy speechrecognition
-pip install pyaudio
+streamlit
+streamlit-mic-recorder
+pydub
+scipy
+SpeechRecognition
+matplotlib
+numpy

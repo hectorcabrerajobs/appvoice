@@ -1,3 +1,5 @@
+# --- Instala APP para streamlit y todos las ibrerias necesarias # --- 
+
 pip install matplotlib
 pip install numpy
 pip install pydub

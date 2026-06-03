@@ -1,3 +1,5 @@
 pip install matplotlib
 pip install numpy
 pip install pydub
+pip install scipy speechrecognition
+pip install pyaudio
